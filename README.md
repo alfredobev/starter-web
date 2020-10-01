@@ -8,6 +8,10 @@ Example Introduction
 
 ## Purpose
 
+Example Alfredo
+
 ## Deployment
+
+Ciao
 
 ## How to contribute
