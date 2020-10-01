@@ -12,6 +12,6 @@ Example Alfredo
 
 ## Deployment
 
-Ciao
+Ciao! Hello!
 
 ## How to contribute
