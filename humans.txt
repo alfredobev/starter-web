@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    alfredo
 
 # THANKS
 
-    <name>
+    all student
 
 # TECHNOLOGY COLOPHON
 
