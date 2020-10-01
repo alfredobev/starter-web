@@ -5,7 +5,7 @@ This repository is for showing how Git and GitHub work
 ## Introduction
 
 This is an example of GIT repository
-My first repository
+My first repository. My name is Alfredo
 
 ## Purpose
 
