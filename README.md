@@ -5,6 +5,8 @@ This is my firt repository
 
 ## Introduction
 
+This is an example of GIT repository
+
 ## Purpose
 
 Sample website with plenty of files for demos
